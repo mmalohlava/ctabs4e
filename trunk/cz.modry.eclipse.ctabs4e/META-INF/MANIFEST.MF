@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ColoredTabs Plug-in
+Bundle-SymbolicName: cz.modry.eclipse.coloredtabs.CTabs4E;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: cz.modry.eclipse.coloredtabs.PluginActivator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.editors,
+ org.eclipse.jdt,
+ org.eclipse.jdt.core,
+ org.eclipse.jdt.ui,
+ org.eclipse.jdt.core.manipulation,
+ org.eclipse.jdt.source,
+ org.eclipse.core.resources,
+ org.eclipse.team.cvs.ui,
+ org.eclipse.team.cvs.core
+Eclipse-LazyStart: true
