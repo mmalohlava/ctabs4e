@@ -1,0 +1,1 @@
+The plugin permits changing colors of opened editor tabs according to projects owning the opened file.
